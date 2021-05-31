@@ -1,0 +1,12 @@
+Switch to the Esprimer parser instead of the lexer.
+Read a whole program instead of one function.
+Draw text boxes.
+Allow the text boxes to be resized.
+Allow the text boxes to be dragged.
+Deal with indent.
+Deal with comments.
+Allow people to scribble on the text boxes.
+Document the features (font, no indent, big heading).
+Allow the boxes to be collapsed to their headings.
+Allow different source code to be pasted in.
+Allow people to play with the CSS.
